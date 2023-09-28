@@ -1,1 +1,4 @@
-"Tyler Purcell" 
+Tyler Purcell
+purcellt@oregonstate.edu
+red
+Hastings
